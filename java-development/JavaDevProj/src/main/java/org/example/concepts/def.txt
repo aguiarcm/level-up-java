@@ -1,0 +1,17 @@
+Skill: Object, class
+Knowledge: Ability to find abstract methods and use interfaces, predetermine methods of Object class
+Abilities: Ability to use a design of patterns and SOLID principals
+
+SOLID:
+Stands for:
+
+Single Responsibility: Each class has a predefined functionality, there are no GOD classes.
+Open-Closed: Open for extension, closed for modification.
+Liskov Substitution: A class must be able to be replaced for its parent (superclass)
+Interface Segregation: Do not force class to implement functionality they don't need
+Dependency Inversion:
+
+Benefits:
+ - Code maintenance is easier and faster
+ - Easy to add new functionalities
+ - Improve code quality and re-usability and its encapsulation
