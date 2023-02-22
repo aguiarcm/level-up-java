@@ -1,0 +1,4 @@
+Generic Method
+Methods created with the purpose of tell the compiler what type of data the parameter is
+
+public <T> void get(List<T> list){...}
